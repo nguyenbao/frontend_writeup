@@ -8,34 +8,10 @@ This is a series of tutorials to get you can develop an web application. The tut
 4. Wordpress
 
 
-### Markdown
+### How the web works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The web relies on Brower (Firefox, Chrome, etc...) which we call clients and Web Application which returns something call HTML. 
 
-```markdown
-Syntax highlighted code block
+When you put a link on the Browser, for example, ```https://google.com```, the Browser will talk with the Web Application on Google and that Web Application will return a HTML. The Browser reads the HTML and displays things for you. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguyenbao/frontend_writeup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+HTML stands for **Hyper Text Markup Language**. HTML is composed by component call **Tag**. 
