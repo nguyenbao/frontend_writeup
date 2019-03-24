@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Road to be a Web Designer
 
-You can use the [editor on GitHub](https://github.com/nguyenbao/frontend_writeup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a series of tutorials to get you can develop an web application. The tutorial is for those who have no knowledge in computer science but want to catch up with Web Application. The series inlcude the following technologies: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Getting started with HTML
+2. Getting started with CSS
+3. Getting started with Javascript
+4. Wordpress
+
 
 ### Markdown
 
