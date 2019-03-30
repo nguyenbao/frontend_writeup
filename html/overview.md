@@ -91,7 +91,7 @@ The **```head```** tag let the browser knows aditional resource to load. You can
     <meta name="description" content="HTML Tutorial" />
     <title>Title of the page</title>
     <link rel="stylesheet" type="text/css" href="theme.css" />
-    <script src="my_javascript.js" />
+    <script src="my_javascript.js"></script>
 </head>
 ```
 
